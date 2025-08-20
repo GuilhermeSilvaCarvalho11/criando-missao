@@ -20,10 +20,10 @@ max-width: 600px;
 text-align: center;
 padding: 20px;
 }
+
 h1{
 color: var(--cor-destaque);
 }
-
 button {
 background-color: var(--cor-secundaria);
 color: var(--cor-texto);
