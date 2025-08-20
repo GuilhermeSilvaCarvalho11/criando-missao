@@ -1,2 +1,2 @@
 # criando-missao
-desenvolvimento html, cs e javaScript
+desenvolvimento html, css e javaScript
